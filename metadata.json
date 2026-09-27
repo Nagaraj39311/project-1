@@ -1,0 +1,6 @@
+{
+  "name": "SmartWaste — Smart Waste Collection & Management System",
+  "description": "Production-grade municipal waste management platform connecting Citizens, Municipal Admins, and Collection Drivers with interactive maps, 2-Opt route optimization, and IoT bin telemetry.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
